@@ -2,7 +2,7 @@
 
 
 
-I create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
+I create functional safety documents, which are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
 
 
 ### Description of Repo Files
